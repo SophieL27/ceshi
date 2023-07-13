@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//测试
 int main()
 {
    int n=1;
